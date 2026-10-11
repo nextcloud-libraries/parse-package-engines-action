@@ -16658,6 +16658,7 @@ function error(message, properties = {}) {
 //#endregion
 //#region src/main.ts
 /*!
+* SPDX-FileCopyrightText: 2026 Nextcloud GmbH and Nextcloud contributors
 * SPDX-FileCopyrightText: 2025 Ferdinand Thiessen
 * SPDX-License-Identifier: MIT
 */
@@ -16741,6 +16742,7 @@ function getPackageManagerInfo(packageJson) {
 //#endregion
 //#region src/index.ts
 /*!
+* SPDX-FileCopyrightText: 2026 Nextcloud GmbH and Nextcloud contributors
 * SPDX-FileCopyrightText: 2025 Ferdinand Thiessen
 * SPDX-License-Identifier: MIT
 */
