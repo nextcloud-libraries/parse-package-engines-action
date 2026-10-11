@@ -5,7 +5,7 @@
 
 import builtinModules from 'builtin-modules'
 import { defineConfig } from 'rolldown/config'
-import { esmExternalRequirePlugin } from 'rolldown/experimental'
+import { esmExternalRequirePlugin } from 'rolldown/plugins'
 
 export default defineConfig({
 	input: 'src/index.ts',
